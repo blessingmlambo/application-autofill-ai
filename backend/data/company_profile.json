@@ -1,0 +1,51 @@
+{
+  "company_name": "Genius UP",
+  "founder_name": "Blessing Mlambo",
+  "email": "blessing@geniusup.co.za",
+  "phone": "+27672260469",
+  "website": "https://www.geniusup.co.za",
+
+  "one_liner": "We help bursary programs and universities identify struggling students early and manage support effectively, so more students succeed.",
+
+  "problem": "Many institutions only realise a student is struggling when it’s too late. Student data is fragmented, and support is reactive, poorly coordinated, and difficult to measure.",
+
+  "solution": "We built a platform that centralises student data, identifies struggling students early, and helps institutions manage structured support, including tutoring and wellness support, while tracking outcomes.",
+
+  "product": "A platform that helps institutions track student performance, identify risk early, manage support, and measure outcomes.",
+
+  "target_users": [
+    "students",
+    "program officers",
+    "bursary programs",
+    "foundations",
+    "universities"
+  ],
+
+  "customers": [
+    "bursary programs",
+    "foundations",
+    "universities"
+  ],
+
+  "business_model": "We generate revenue through B2B SaaS subscriptions, charging institutions per student annually, with additional revenue from academic support services.",
+
+  "go_to_market": "We acquire customers through direct outreach, referrals, and pilot partnerships, then expand within institutions once value is proven.",
+
+  "validation": "We’ve engaged directly with bursary programs and received positive feedback, with ongoing discussions progressing toward pilot implementations.",
+
+  "traction_summary": "We generate revenue through tutoring and academic programs and are currently in discussions with bursary programs to launch SaaS pilots.",
+
+  "traction_detailed": "We have generated revenue through academic support services, including one-on-one tutoring and structured programs. In 2025, we generated R163,000 in revenue. We have worked with private clients and bursary-funded students, including Allan Gray Orbis Foundation and the Moshal Program, and are engaging institutions for pilot implementations of the Student Success Platform.",
+
+  "funding": "We have raised R650,000 in pre-seed funding from E Squared Investments through an option-based agreement, supporting product development and early operations.",
+
+  "key_insight": "Students do not fail because support is unavailable, but because support comes too late.",
+
+  "impact": "We help institutions move from reactive support to proactive student success, improving outcomes for students from underserved backgrounds.",
+
+  "founder_background": "Blessing Mlambo is an Accounting graduate from the University of Cape Town and founder of Genius UP, with experience tutoring at UCT and privately, and working with bursary programs. He is supported by AGOF, Grindstone XL, and E Squared funding.",
+
+  "why_this_idea": "Through working directly with students, we saw that support exists but often comes too late. Institutions lack systems to identify risk early and manage support effectively.",
+
+  "domain_expertise": "Through Genius UP, we’ve worked directly with students and bursary programs, delivering academic support and gaining firsthand insight into the gaps in student success systems."
+}

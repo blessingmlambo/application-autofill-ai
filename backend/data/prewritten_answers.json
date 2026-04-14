@@ -1,0 +1,217 @@
+{
+    "answers": [
+      {
+        "key": "one_liner",
+        "patterns": [
+          "one liner",
+          "one-liner",
+          "elevator pitch",
+          "describe your startup in one sentence",
+          "describe your company in one sentence",
+          "short description",
+          "startup in one sentence"
+        ],
+        "answer": "We help bursary programs and universities identify struggling students early and manage support effectively, so more students succeed."
+      },
+      {
+        "key": "problem",
+        "patterns": [
+          "what problem are you solving",
+          "problem are you solving",
+          "what problem does your startup solve",
+          "problem statement",
+          "what challenge are you addressing"
+        ],
+        "answer": "Many institutions only realise a student is struggling when it’s too late. Student data is fragmented, and support is reactive, poorly coordinated, and difficult to measure."
+      },
+      {
+        "key": "solution",
+        "patterns": [
+          "what is your solution",
+          "describe your solution",
+          "how do you solve this problem",
+          "solution",
+          "what have you built"
+        ],
+        "answer": "We built a platform that centralises student data, identifies struggling students early, and helps institutions manage structured support such as tutoring and wellness support while tracking outcomes."
+      },
+      {
+        "key": "customers_users",
+        "patterns": [
+          "who are your customers",
+          "who are your users",
+          "target customers",
+          "target users",
+          "who pays",
+          "who uses the platform"
+        ],
+        "answer": "Students and program officers use the platform, while bursary programs, foundations, and universities are the primary paying customers. We also generate revenue directly from students through tutoring."
+      },
+      {
+        "key": "revenue_model",
+        "patterns": [
+          "revenue model",
+          "how do you make money",
+          "how do you generate revenue",
+          "pricing model",
+          "business model"
+        ],
+        "answer": "We generate revenue through B2B SaaS subscriptions, charging institutions per student annually. We also earn additional revenue from academic support services delivered on behalf of institutions or directly to students."
+      },
+      {
+        "key": "traction_short",
+        "patterns": [
+          "traction",
+          "early traction",
+          "current traction",
+          "what traction do you have"
+        ],
+        "answer": "We generate revenue through tutoring and academic programs. We are in discussions with bursary programs to launch pilots for the SaaS platform, including ongoing conversations with Allan Gray Orbis Foundation, with strong early interest and positive feedback."
+      },
+      {
+        "key": "validation",
+        "patterns": [
+          "validation",
+          "how have you validated this",
+          "market validation",
+          "proof of demand"
+        ],
+        "answer": "We’ve engaged directly with bursary programs and received positive feedback. Ongoing discussions are progressing toward pilot implementations in real institutional environments."
+      },
+      {
+        "key": "why_this_idea",
+        "patterns": [
+          "why this idea",
+          "why did you start this",
+          "why did you build this",
+          "why this problem",
+          "why are you solving this"
+        ],
+        "answer": "Through working directly with students, we saw that support exists but often comes too late. Institutions lack systems to identify risk early and manage support effectively."
+      },
+      {
+        "key": "domain_expertise",
+        "patterns": [
+          "domain expertise",
+          "why are you the right team",
+          "why are you suited to solve this",
+          "team expertise",
+          "founder expertise"
+        ],
+        "answer": "Through Genius UP, we’ve worked directly with students and bursary programs, delivering academic support and gaining insight into gaps in student success systems."
+      },
+      {
+        "key": "how_we_know_needed",
+        "patterns": [
+          "how do you know this is needed",
+          "how we know this is needed",
+          "why is this needed",
+          "evidence this is needed"
+        ],
+        "answer": "We’ve seen students struggle despite support being available. Institutions confirmed the issue is not access, but the lack of systems to identify risk early and manage support effectively."
+      },
+      {
+        "key": "product_short",
+        "patterns": [
+          "product description",
+          "describe your product",
+          "what is your product",
+          "short product description"
+        ],
+        "answer": "A platform that helps institutions track student performance, identify risk early, manage support, and measure outcomes."
+      },
+      {
+        "key": "business_model_short",
+        "patterns": [
+          "business model short",
+          "short business model",
+          "business model in one sentence"
+        ],
+        "answer": "Per-student annual SaaS pricing, with additional revenue from academic support services."
+      },
+      {
+        "key": "go_to_market",
+        "patterns": [
+          "go to market",
+          "go-to-market",
+          "customer acquisition",
+          "how will you acquire customers",
+          "acquisition strategy"
+        ],
+        "answer": "We acquire customers through direct outreach, referrals, and pilot partnerships, expanding within institutions once value is proven."
+      },
+      {
+        "key": "competitors_advantage",
+        "patterns": [
+          "competitors",
+          "competitive advantage",
+          "what makes you different",
+          "why are you different",
+          "alternatives",
+          "competition"
+        ],
+        "answer": "Current alternatives include spreadsheets and general systems. We stand out by enabling early risk detection, structured support, and measurable outcomes."
+      },
+      {
+        "key": "key_insight",
+        "patterns": [
+          "key insight",
+          "core insight",
+          "main insight"
+        ],
+        "answer": "Students don’t fail due to lack of support, but because support comes too late."
+      },
+      {
+        "key": "what_we_learned",
+        "patterns": [
+          "what have you learned",
+          "what you learned",
+          "key learnings",
+          "lessons learned"
+        ],
+        "answer": "We learned adoption depends on fitting existing workflows. Institutions need simple tools that align with how support is already delivered."
+      },
+      {
+        "key": "impact_statement",
+        "patterns": [
+          "impact",
+          "impact statement",
+          "social impact",
+          "what impact do you create"
+        ],
+        "answer": "We help institutions move from reactive support to proactive student success, improving outcomes for students from underserved backgrounds, many of whom are funded by bursary programs."
+      },
+      {
+        "key": "founder_background",
+        "patterns": [
+          "founder background",
+          "founder bio",
+          "tell us about the founder",
+          "who is the founder",
+          "background of founder"
+        ],
+        "answer": "Blessing Mlambo is an Accounting graduate from the University of Cape Town and founder of Genius UP, with experience tutoring at UCT and privately, and working with bursary programs, supported by AGOF, Grindstone XL, and E² funding."
+      },
+      {
+        "key": "traction_numbers",
+        "patterns": [
+          "traction with numbers",
+          "traction metrics",
+          "traction numbers",
+          "what traction do you have with numbers",
+          "key metrics"
+        ],
+        "answer": "We have generated revenue through our academic support services under Genius UP, including one-on-one tutoring and structured academic programs. To date, we have generated revenue from both private clients and bursary-funded students, delivered academic support across multiple subjects at university level, worked directly with bursary programs including Allan Gray Orbis Foundation and the Moshal Program, and engaged institutions on our Student Success System with active discussions to launch pilot implementations. 2025 revenue generated: R163,000."
+      },
+      {
+        "key": "funding_raised",
+        "patterns": [
+          "funding raised",
+          "how much have you raised",
+          "capital raised",
+          "investment received"
+        ],
+        "answer": "To date, we have secured pre-seed funding and non-dilutive support to build and launch the platform. This includes R650,000 in pre-seed funding from E Squared Investments through an option-based investment agreement, which has supported product development, early operations, and initial market engagement."
+      }
+    ]
+  }
