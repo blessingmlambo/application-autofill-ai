@@ -40,8 +40,6 @@ The user can still review and edit the answers before submitting the form.
 
 ## Demo
 
-Add a screenshot or demo GIF here.
-
 ```md
 ![Application Autofill AI Screenshot](screenshot.png)
 ```
