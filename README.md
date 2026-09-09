@@ -38,11 +38,9 @@ The user can still review and edit the answers before submitting the form.
 
 ---
 
-```md
 ## Demo
 
 ![Application Autofill AI Screenshot](screenshot.png)
-```
 
 ---
 
